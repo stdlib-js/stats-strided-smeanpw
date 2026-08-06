@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-29)
+## Unreleased (2026-08-06)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1f1a165`](https://github.com/stdlib-js/stdlib/commit/1f1a165288861d663f7fbbab656eb94d2e471ade) - **bench:** refactor to use dynamic memory allocation in `stats/strided/smeanpw` [(#13984)](https://github.com/stdlib-js/stdlib/pull/13984) _(by Arjan-P)_
 -   [`d6c72a0`](https://github.com/stdlib-js/stdlib/commit/d6c72a042cca76e97759951cdbf89375b784e16a) - **bench:** refactor to use string interpolation in `stats/strided` [(#11359)](https://github.com/stdlib-js/stdlib/pull/11359) _(by Karan Anand)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Arjan-P
 -   Karan Anand
 
 </section>
